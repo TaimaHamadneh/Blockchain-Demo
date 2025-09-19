@@ -3,8 +3,9 @@ An interactive demo of a **Blockchain** built with **HTML, CSS, and JavaScript**
 This project demonstrates how blockchain technology works by allowing users to add blocks with custom data, generate SHA-256 hashes, and visualize the chain in a simple UI.  
 
 <img width="1482" height="828" alt="image" src="https://github.com/user-attachments/assets/0efba2d7-989c-403a-9b88-8fb5ffcade73" />
---
-## 🚀 Features  
+
+
+##  Features  
 - **Blockchain Core**  
   - Genesis block initialization  
   - SHA-256 hashing using [CryptoJS](https://cdnjs.com/libraries/crypto-js)  
